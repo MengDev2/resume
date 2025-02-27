@@ -2,6 +2,6 @@ title: ""
 repository: 
   name: false
   theme: 
-    name: minimal
-    base_color: blue
-    accent_color: white
+    name: chinese-resume
+    base_color: red
+    accent_color: gold
