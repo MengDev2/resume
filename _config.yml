@@ -1,2 +1,7 @@
+title: ""
 repository: 
   name: false
+  theme: 
+    name: minimal
+    base_color: blue
+    accent_color: white
