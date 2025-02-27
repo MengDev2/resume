@@ -1,7 +1,5 @@
-title: ""
+title: "😊"
 repository: 
   name: false
   theme: 
-    name: chinese-resume
-    base_color: red
-    accent_color: gold
+    name: minima
